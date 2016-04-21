@@ -1,4 +1,4 @@
-name: queendscott
+name: Queen D. Scott
 favicon: null
 layout_spectrum: 0.07511238614097238
 typography_spectrum: 0.38090497558005154
@@ -23,7 +23,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 0.4654300194233656
-  lightness: 0.6920065560843796
-  saturation: 0.9122474619653076
-  rhythmicContrast: 0.9984488724730909
+  lightness: 0.9375
+  saturation: 0.0625
+  rhythmicContrast: 1
 purpose: []
