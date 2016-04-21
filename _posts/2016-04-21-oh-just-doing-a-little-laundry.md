@@ -7,20 +7,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Oh, just doing a little laundry...'
-datePublished: '2016-04-21T00:54:57.832Z'
-dateModified: '2016-04-21T00:54:42.433Z'
+datePublished: '2016-04-21T00:57:29.697Z'
+dateModified: '2016-04-21T00:55:06.373Z'
 author:
   - name: ''
     url: ''
 title: ''
+sourcePath: _posts/2016-04-21-oh-just-doing-a-little-laundry.md
+published: true
 authors: []
 publisher:
   name: queendscott.com
   domain: queendscott.com
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-oh-just-doing-a-little-laundry.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
