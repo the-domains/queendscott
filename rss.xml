@@ -4,21 +4,21 @@
         <description><![CDATA[queendscott]]></description>
         <link>https://thegrid.ai/queendscott/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 02:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 02:05:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/queendscott/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Queen Photo Shoot Pt. 1]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e1320c3-b007-4791-a194-7b575607afce.jpg" alt="Photo by Sarah Sturges" title="">]]></description>
+            <link>http://queendscott.com/gallery/queen-photo-shoot-photography-by-sarah-sturges/</link>
+            <guid isPermaLink="false">1ba1eb0c-b56c-49eb-9777-518cd6648f66</guid>
+            <pubDate>Thu, 21 Apr 2016 02:05:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Queen Photo Shoot]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e2576aa-57ac-4a6c-b1bb-d0df1b62ac76.jpg">]]></description>
             <link>https://thegrid.ai/queendscott/queen-photo-shoot/index.html</link>
             <guid isPermaLink="false">2827feab-ac83-4e39-869f-86b1aa909e0b</guid>
             <pubDate>Thu, 21 Apr 2016 02:04:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e1320c3-b007-4791-a194-7b575607afce.jpg" alt="Photo by Sarah Sturges" title="">]]></description>
-            <link>http://queendscott.com/gallery/queen-photo-shoot-photography-by-sarah-sturges/</link>
-            <guid isPermaLink="false">1ba1eb0c-b56c-49eb-9777-518cd6648f66</guid>
-            <pubDate>Thu, 21 Apr 2016 00:57:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
