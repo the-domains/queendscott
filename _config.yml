@@ -1,0 +1,28 @@
+name: queendscott
+favicon: null
+layout_spectrum: 0.07511238614097238
+typography_spectrum: 0.38090497558005154
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4654300194233656
+  lightness: 0.6920065560843796
+  saturation: 0.9122474619653076
+  rhythmicContrast: 0.9984488724730909
+purpose: []
