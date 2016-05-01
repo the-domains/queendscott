@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Need a tow? No problem. ;-)
-datePublished: '2016-05-01T20:44:11.453Z'
-dateModified: '2016-05-01T20:43:57.141Z'
-title: ''
+datePublished: '2016-05-01T20:49:31.403Z'
+dateModified: '2016-05-01T20:49:25.632Z'
+title: Queen Photo Shoot Pt. 1
 author:
   - name: ''
     url: ''
@@ -24,6 +24,6 @@ url: queen-photo-shoot/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8f6f2b0-dd16-4f73-849f-66572d0ec347.jpg)
+![Photography by Sarah Sturges](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fdc20b93e6e59ce06b1ee529cd15d264a268ac52.jpg)
 
 Need a tow? No problem. ;-)
