@@ -22,7 +22,7 @@ color:
     - '#ff9b8b'
     - '#ff4700'
     - '#5e7766'
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Queen D. Scott
+favicon: null
 opengraph:
   image: null
   type: null
