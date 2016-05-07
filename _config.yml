@@ -1,41 +1,41 @@
-name: Queen D. Scott
-favicon: null
-layout_spectrum: 0.74201
-typography_spectrum: 0.08666
 title: Queen D. Scott Official Site
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.3100359
   brandColors:
     - '#000000'
     - '#ffffff'
     - '#ff9b8b'
     - '#ff4700'
     - '#5e7766'
-  brandStrength: 1
-  lightness: 0.5143369
-  saturation: 1
   rhythmicContrast: 0
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Queen D. Scott
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.08666
+layout_spectrum: 0.74201
